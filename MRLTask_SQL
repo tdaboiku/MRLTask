@@ -1,5 +1,3 @@
-DROP TABLE HfTaX
-
 CREATE TABLE HfTaX(
 	Time decimal,
 	HfTa decimal,
