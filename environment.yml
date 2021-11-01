@@ -1,0 +1,9 @@
+name: calphad
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python>=3
+  - pycalphad==0.8.2
+  - scheil
+  - espei
